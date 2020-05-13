@@ -22,7 +22,7 @@
 
 价格：日租2元，周租4元，月租7元
 
-租用地址：https://item.taobao.com/item.htm?ft=t&id=614480007543
+租用地址：[淘宝租用](https://item.taobao.com/item.htm?ft=t&id=614480007543)
 
 **也可选择QQ/微信购买+：1336247478**
 
@@ -50,16 +50,40 @@
 
 ### 视频教程1
 
-教程名称：
+教程名称：网易云-龙良曲主讲-深度学习与PyTorch入门实战教程
 
-视频下载：
+视频下载：https://pan.baidu.com/s/1lD6HDzGwxrky40H2JaNdEw
 
-网盘密码：
+网盘密码：753i
+
+解压密码：qweasd
 
 ### 视频教程2
 
+教程名称：七月在线：PyTorch的入门与实战视频教程+资料+代码
+
+视频下载：https://pan.baidu.com/s/1nMFrjOapE7_GZgbEiH--KA
+
+网盘密码：cnph
+
+解压密码：qweasd
+
+### 视频教程3
+
+教程名称：深度学习理论与实战PyTorch实战视频教程
+
+视频下载：https://pan.baidu.com/s/1ZMjljO_E5pEX_rSTpFB8EQ
+
+网盘密码：79b9
+
+解压密码：qweasd
+
+### 视频教程4
+
 教程名称：
 
 视频下载：
 
 网盘密码：
+
+解压密码：
