@@ -26,15 +26,17 @@
 
 **也可选择QQ/微信购买+：1336247478**
 
-## Pytorch相关视频教程
+## Tensorflow相关视频教程
 
 ## 视频教程1
 
-教程名称：
+教程名称：网易云-龙良曲主讲-深度学习与TensorFlow 2入门实战
 
-视频下载：
+视频下载：https://pan.baidu.com/s/1BF2roCZrsP9IDyorTYIOyA
 
-网盘密码：
+网盘密码：y3v2
+
+解压密码：qweasd
 
 ## 视频教程2
 
@@ -44,7 +46,7 @@
 
 网盘密码：
 
-## Tensorflow相关视频教程
+## Pytorch相关视频教程
 
 ## 视频教程1
 
