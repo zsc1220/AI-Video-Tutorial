@@ -22,7 +22,7 @@
 
 价格：日租2元，周租4元，月租7元
 
-租用地址：[淘宝租用](https://item.taobao.com/item.htm?ft=t&id=614480007543)
+租用地址：https://item.taobao.com/item.htm?ft=t&id=614480007543
 
 **也可选择QQ/微信购买+：1336247478**
 
